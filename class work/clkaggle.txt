@@ -1,0 +1,10 @@
+open /n--->/n close
+with open():
+
+путь 1) абсолютный  /n
+     2) относительный  ..\text.csv
+
+Pandas:
+1) Series (столбцы)
+2) DataFrame (вся таблица, несколько series)
+
